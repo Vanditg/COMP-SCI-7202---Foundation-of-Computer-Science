@@ -3,4 +3,5 @@ This repository contains assignment and practical exam solutions for one of my p
 
 ## Easy Navigation
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%201/Solution)  
-[Assignment - 2](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%202/Solution)
+[Assignment - 2](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%202/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%202/Solution)  
+[Assignment - 3 | Part_I](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%203/Problem/Part_I) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Assignment/Assignment%20-%203/Solution/Part_I)  
