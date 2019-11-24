@@ -1,0 +1,11 @@
+Dear manager, 
+
+The problem (1), was due to the method sortStringByIndex(String [] arr) was not implemented yet, however I have fixed the error by first doing sorting of the string using .compareTo() method and returned the index.  
+
+The problem (2), was due to the searching of an array was done without using binary search thus, I have fixed using insertion sort algorithm first and then used searching method for getting the output.  
+
+The problem (3), was due to the selection sort algorithm was not implemented, however I have fixed by implementing by defined sorting by index and normal for int and string. 
+
+Kind regards, 
+Vandit Jyotindra Gajjar,
+a1779153
