@@ -19,3 +19,6 @@ This repository contains assignment and practical exam solutions for one of my p
 [Practical Exam - 3](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%203/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%203/Solution)  
 [Practical Exam - 4](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%204/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%204/Solution)  
 [Practical Exam - 5](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%205/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Practical%20Exam/Practical%20Exam%20-%205/Solution)  
+
+## Easy Navigation for Final Practical Exam. 
+[Final Practical Exam](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Final%20Practical%20Exam/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Final%20Practical%20Exam/Solution)  
