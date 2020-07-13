@@ -25,3 +25,6 @@ This repository contains assignment and practical exam solutions for one of my p
 
 ## Easy Navigation for Final Quiz Exam. 
 [Final Quiz Exam and Solution](https://github.com/Vanditg/COMP-SCI-7202---Foundation-of-Computer-Science/tree/master/Final%20Quiz)  
+
+## Lecture Slides and Videos.  
+Please send a request [Here](https://shorturl.at/cekuw) 
